@@ -1,6 +1,6 @@
 [Home](README.md) | [Texas Maps](TexasMaps.md)
 # 2026-Midterm-Election-Precinct-Maps-and-Data
-This is a repository that will include precinct-level maps for elections in 2026. It will also include cleaned CSVs with precinct data.
+This is a repository that will include precinct-level maps for elections in 2026. It will also include cleaned CSVs with precinct data. It will be updated as I complete maps.
 
 To view maps, you can either click on the maps in their file, or you can navigate by the state tabs at the top of the document. 
 
