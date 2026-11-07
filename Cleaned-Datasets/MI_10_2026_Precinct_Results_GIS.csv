@@ -1,0 +1,215 @@
+﻿PrecinctID,CountyFIPS,County,PrecinctName,SourcePrecinct,HINES_DEM,BOUCHARD_REP,KIRBY_WCP,SALIBA_LIB,NKROMO_GRN,TOTAL_VOTES,TWO_PARTY,HINES_PCT,BOUCHARD_PCT,DEM_MARGIN,DEM_MARGIN_PCT,WINNER,WINNER_MARGIN_PCT
+WP-099-14320-00001,099,Macomb,"City of Center Line, Precinct 1","Center Line, Pct 1",532,310,11,6,3,862,842,61.717,35.963,222,26.366,HINES,26.366
+WP-099-14320-00002,099,Macomb,"City of Center Line, Precinct 2","Center Line, Pct 2",453,199,6,3,1,662,652,68.429,30.06,254,38.957,HINES,38.957
+WP-099-14320-00003,099,Macomb,"City of Center Line, Precinct 3","Center Line, Pct 3",991,487,27,13,7,1525,1478,64.984,31.934,504,34.1,HINES,34.1
+WP-099-14320-00004,099,Macomb,"City of Center Line, Precinct 4","Center Line, Pct 4",284,189,6,5,1,485,473,58.557,38.969,95,20.085,HINES,20.085
+WP-099-16520-00001,099,Macomb,"Clinton Township, Precinct 1","Clinton Twp, Pct 1",1632,1073,28,22,9,2764,2705,59.045,38.821,559,20.665,HINES,20.665
+WP-099-16520-00002,099,Macomb,"Clinton Township, Precinct 2","Clinton Twp, Pct 2",1151,1300,15,33,7,2506,2451,45.93,51.875,-149,-6.079,BOUCHARD,6.079
+WP-099-16520-00003,099,Macomb,"Clinton Township, Precinct 3","Clinton Twp, Pct 3",1579,1480,35,31,15,3140,3059,50.287,47.134,99,3.236,HINES,3.236
+WP-099-16520-00004,099,Macomb,"Clinton Township, Precinct 4","Clinton Twp, Pct 4",1339,510,34,13,6,1902,1849,70.4,26.814,829,44.835,HINES,44.835
+WP-099-16520-00005,099,Macomb,"Clinton Township, Precinct 5","Clinton Twp, Pct 5",1260,1329,24,29,5,2647,2589,47.601,50.208,-69,-2.665,BOUCHARD,2.665
+WP-099-16520-00006,099,Macomb,"Clinton Township, Precinct 6","Clinton Twp, Pct 6",1474,1695,25,31,4,3229,3169,45.649,52.493,-221,-6.974,BOUCHARD,6.974
+WP-099-16520-00007,099,Macomb,"Clinton Township, Precinct 7","Clinton Twp, Pct 7",926,869,13,20,6,1834,1795,50.491,47.383,57,3.175,HINES,3.175
+WP-099-16520-00008,099,Macomb,"Clinton Township, Precinct 8","Clinton Twp, Pct 8",1440,1450,22,18,7,2937,2890,49.03,49.37,-10,-0.346,BOUCHARD,0.346
+WP-099-16520-00009,099,Macomb,"Clinton Township, Precinct 9","Clinton Twp, Pct 9",1300,962,41,26,9,2338,2262,55.603,41.146,338,14.943,HINES,14.943
+WP-099-16520-00010,099,Macomb,"Clinton Township, Precinct 10","Clinton Twp, Pct 10",1398,1612,20,32,4,3066,3010,45.597,52.577,-214,-7.11,BOUCHARD,7.11
+WP-099-16520-00011,099,Macomb,"Clinton Township, Precinct 11","Clinton Twp, Pct 11",1272,1236,14,12,6,2540,2508,50.079,48.661,36,1.435,HINES,1.435
+WP-099-16520-00012,099,Macomb,"Clinton Township, Precinct 12","Clinton Twp, Pct 12",1147,928,27,12,6,2120,2075,54.104,43.774,219,10.554,HINES,10.554
+WP-099-16520-00013,099,Macomb,"Clinton Township, Precinct 13","Clinton Twp, Pct 13",1341,864,29,18,2,2254,2205,59.494,38.332,477,21.633,HINES,21.633
+WP-099-16520-00014,099,Macomb,"Clinton Township, Precinct 14","Clinton Twp, Pct 14",1261,1320,32,23,7,2643,2581,47.711,49.943,-59,-2.286,BOUCHARD,2.286
+WP-099-16520-00015,099,Macomb,"Clinton Township, Precinct 15","Clinton Twp, Pct 15",1520,1156,43,29,7,2755,2676,55.172,41.96,364,13.602,HINES,13.602
+WP-099-16520-00016,099,Macomb,"Clinton Township, Precinct 16","Clinton Twp, Pct 16",1504,879,36,21,6,2446,2383,61.488,35.936,625,26.227,HINES,26.227
+WP-099-16520-00017,099,Macomb,"Clinton Township, Precinct 17","Clinton Twp, Pct 17",1183,893,47,29,9,2161,2076,54.743,41.323,290,13.969,HINES,13.969
+WP-099-16520-00018,099,Macomb,"Clinton Township, Precinct 18","Clinton Twp, Pct 18",1350,645,33,18,15,2061,1995,65.502,31.295,705,35.338,HINES,35.338
+WP-099-24290-00001,099,Macomb,"City of Eastpointe, Precinct 1","Eastpointe, Pct 1",1452,328,43,15,6,1844,1780,78.742,17.787,1124,63.146,HINES,63.146
+WP-099-24290-00002,099,Macomb,"City of Eastpointe, Precinct 2","Eastpointe, Pct 2",1167,384,31,17,8,1607,1551,72.62,23.895,783,50.484,HINES,50.484
+WP-099-24290-00003,099,Macomb,"City of Eastpointe, Precinct 3","Eastpointe, Pct 3",1247,437,34,17,8,1743,1684,71.543,25.072,810,48.1,HINES,48.1
+WP-099-24290-00004,099,Macomb,"City of Eastpointe, Precinct 4","Eastpointe, Pct 4",1816,321,62,10,11,2220,2137,81.802,14.459,1495,69.958,HINES,69.958
+WP-099-24290-00005,099,Macomb,"City of Eastpointe, Precinct 5","Eastpointe, Pct 5",1828,313,36,11,10,2198,2141,83.167,14.24,1515,70.761,HINES,70.761
+WP-099-24290-00006,099,Macomb,"City of Eastpointe, Precinct 6","Eastpointe, Pct 6",1155,276,34,11,5,1481,1431,77.988,18.636,879,61.426,HINES,61.426
+WP-099-24290-00007,099,Macomb,"City of Eastpointe, Precinct 7","Eastpointe, Pct 7",1452,426,51,15,6,1950,1878,74.462,21.846,1026,54.633,HINES,54.633
+WP-099-24290-00008,099,Macomb,"City of Eastpointe, Precinct 8","Eastpointe, Pct 8",1259,254,30,8,5,1556,1513,80.913,16.324,1005,66.424,HINES,66.424
+WP-099-30420-00001,099,Macomb,"City of Fraser, Precinct 1","Fraser, Pct 1",826,704,14,19,6,1569,1530,52.645,44.869,122,7.974,HINES,7.974
+WP-099-30420-00002,099,Macomb,"City of Fraser, Precinct 2","Fraser, Pct 2",912,858,31,12,6,1819,1770,50.137,47.169,54,3.051,HINES,3.051
+WP-099-30420-00003,099,Macomb,"City of Fraser, Precinct 3","Fraser, Pct 3",695,523,15,15,2,1250,1218,55.6,41.84,172,14.122,HINES,14.122
+WP-099-30420-00004,099,Macomb,"City of Fraser, Precinct 4","Fraser, Pct 4",630,549,16,12,4,1211,1179,52.023,45.334,81,6.87,HINES,6.87
+WP-099-30420-00005,099,Macomb,"City of Fraser, Precinct 5","Fraser, Pct 5",672,677,14,12,3,1378,1349,48.766,49.129,-5,-0.371,BOUCHARD,0.371
+WP-099-36820-00001,099,Macomb,"Harrison Township, Precinct 1","Harrison Twp, Pct 1",1079,971,42,18,8,2118,2050,50.944,45.845,108,5.268,HINES,5.268
+WP-099-36820-00002,099,Macomb,"Harrison Township, Precinct 2","Harrison Twp, Pct 2",847,1169,24,23,10,2073,2016,40.859,56.392,-322,-15.972,BOUCHARD,15.972
+WP-099-36820-00003,099,Macomb,"Harrison Township, Precinct 3","Harrison Twp, Pct 3",807,1522,20,21,2,2372,2329,34.022,64.165,-715,-30.7,BOUCHARD,30.7
+WP-099-36820-00004,099,Macomb,"Harrison Township, Precinct 4","Harrison Twp, Pct 4",1216,1486,24,16,9,2751,2702,44.202,54.017,-270,-9.993,BOUCHARD,9.993
+WP-099-36820-00005,099,Macomb,"Harrison Township, Precinct 5","Harrison Twp, Pct 5",1073,1060,28,13,8,2182,2133,49.175,48.579,13,0.609,HINES,0.609
+WP-099-36820-00006,099,Macomb,"Harrison Township, Precinct 6","Harrison Twp, Pct 6",428,788,12,8,5,1241,1216,34.488,63.497,-360,-29.605,BOUCHARD,29.605
+WP-099-50480-00001,099,Macomb,"Macomb Township, Precinct 1","Macomb Twp, Pct 1",1204,1150,33,13,10,2410,2354,49.959,47.718,54,2.294,HINES,2.294
+WP-099-50480-00002,099,Macomb,"Macomb Township, Precinct 2","Macomb Twp, Pct 2",1050,1481,11,23,5,2570,2531,40.856,57.626,-431,-17.029,BOUCHARD,17.029
+WP-099-50480-00007,099,Macomb,"Macomb Township, Precinct 7","Macomb Twp, Pct 7",729,1005,13,21,4,1772,1734,41.14,56.716,-276,-15.917,BOUCHARD,15.917
+WP-099-50480-00008,099,Macomb,"Macomb Township, Precinct 8","Macomb Twp, Pct 8",1013,1564,23,16,5,2621,2577,38.649,59.672,-551,-21.381,BOUCHARD,21.381
+WP-099-50480-00011,099,Macomb,"Macomb Township, Precinct 11","Macomb Twp, Pct 11",584,1060,11,10,2,1667,1644,35.033,63.587,-476,-28.954,BOUCHARD,28.954
+WP-099-55820-00001,099,Macomb,"City of Mount Clemens, Precinct 1","Mount Clemens, Pct 1",489,128,10,4,6,637,617,76.766,20.094,361,58.509,HINES,58.509
+WP-099-55820-00002,099,Macomb,"City of Mount Clemens, Precinct 2","Mount Clemens, Pct 2",528,370,8,9,4,919,898,57.454,40.261,158,17.595,HINES,17.595
+WP-099-55820-00003,099,Macomb,"City of Mount Clemens, Precinct 3","Mount Clemens, Pct 3",842,544,24,19,5,1434,1386,58.717,37.936,298,21.501,HINES,21.501
+WP-099-55820-00004,099,Macomb,"City of Mount Clemens, Precinct 4","Mount Clemens, Pct 4",408,258,13,12,4,695,666,58.705,37.122,150,22.523,HINES,22.523
+WP-099-55820-00005,099,Macomb,"City of Mount Clemens, Precinct 5","Mount Clemens, Pct 5",534,556,17,16,5,1128,1090,47.34,49.291,-22,-2.018,BOUCHARD,2.018
+WP-099-55820-00006,099,Macomb,"City of Mount Clemens, Precinct 6","Mount Clemens, Pct 6",908,368,19,15,7,1317,1276,68.945,27.942,540,42.32,HINES,42.32
+WP-099-69800-00001,099,Macomb,"City of Roseville, Precinct 1","Roseville, Pct 1",778,518,24,13,2,1335,1296,58.277,38.801,260,20.062,HINES,20.062
+WP-099-69800-00002,099,Macomb,"City of Roseville, Precinct 2","Roseville, Pct 2",1026,615,32,16,10,1699,1641,60.388,36.198,411,25.046,HINES,25.046
+WP-099-69800-00003,099,Macomb,"City of Roseville, Precinct 3","Roseville, Pct 3",823,287,29,11,5,1155,1110,71.255,24.848,536,48.288,HINES,48.288
+WP-099-69800-00004,099,Macomb,"City of Roseville, Precinct 4","Roseville, Pct 4",1274,714,28,14,7,2037,1988,62.543,35.052,560,28.169,HINES,28.169
+WP-099-69800-00005,099,Macomb,"City of Roseville, Precinct 5","Roseville, Pct 5",921,401,28,9,5,1364,1322,67.522,29.399,520,39.334,HINES,39.334
+WP-099-69800-00006,099,Macomb,"City of Roseville, Precinct 6","Roseville, Pct 6",914,712,33,34,7,1700,1626,53.765,41.882,202,12.423,HINES,12.423
+WP-099-69800-00007,099,Macomb,"City of Roseville, Precinct 7","Roseville, Pct 7",980,565,33,13,5,1596,1545,61.404,35.401,415,26.861,HINES,26.861
+WP-099-69800-00008,099,Macomb,"City of Roseville, Precinct 8","Roseville, Pct 8",859,664,26,18,13,1580,1523,54.367,42.025,195,12.804,HINES,12.804
+WP-099-69800-00009,099,Macomb,"City of Roseville, Precinct 9","Roseville, Pct 9",875,703,29,16,5,1628,1578,53.747,43.182,172,10.9,HINES,10.9
+WP-099-69800-00010,099,Macomb,"City of Roseville, Precinct 10","Roseville, Pct 10",425,451,13,13,3,905,876,46.961,49.834,-26,-2.968,BOUCHARD,2.968
+WP-099-69800-00011,099,Macomb,"City of Roseville, Precinct 11","Roseville, Pct 11",1021,836,33,25,8,1923,1857,53.094,43.474,185,9.962,HINES,9.962
+WP-099-69800-00012,099,Macomb,"City of Roseville, Precinct 12","Roseville, Pct 12",1105,651,35,14,8,1813,1756,60.949,35.907,454,25.854,HINES,25.854
+WP-099-70760-00001,099,Macomb,"City of St. Clair Shores, Precinct 1","St. Clair Shores, Pct 1",1544,814,16,18,11,2403,2358,64.253,33.874,730,30.958,HINES,30.958
+WP-099-70760-00002,099,Macomb,"City of St. Clair Shores, Precinct 2","St. Clair Shores, Pct 2",1236,948,19,12,2,2217,2184,55.751,42.76,288,13.187,HINES,13.187
+WP-099-70760-00003,099,Macomb,"City of St. Clair Shores, Precinct 3","St. Clair Shores, Pct 3",1490,1212,29,28,7,2766,2702,53.868,43.818,278,10.289,HINES,10.289
+WP-099-70760-00004,099,Macomb,"City of St. Clair Shores, Precinct 4","St. Clair Shores, Pct 4",870,1005,9,12,2,1898,1875,45.838,52.95,-135,-7.2,BOUCHARD,7.2
+WP-099-70760-00005,099,Macomb,"City of St. Clair Shores, Precinct 5","St. Clair Shores, Pct 5",861,785,27,22,6,1701,1646,50.617,46.149,76,4.617,HINES,4.617
+WP-099-70760-00006,099,Macomb,"City of St. Clair Shores, Precinct 6","St. Clair Shores, Pct 6",1173,1261,28,19,7,2488,2434,47.146,50.683,-88,-3.615,BOUCHARD,3.615
+WP-099-70760-00007,099,Macomb,"City of St. Clair Shores, Precinct 7","St. Clair Shores, Pct 7",1375,1414,20,18,6,2833,2789,48.535,49.912,-39,-1.398,BOUCHARD,1.398
+WP-099-70760-00008,099,Macomb,"City of St. Clair Shores, Precinct 8","St. Clair Shores, Pct 8",1549,1767,35,30,15,3396,3316,45.612,52.032,-218,-6.574,BOUCHARD,6.574
+WP-099-70760-00009,099,Macomb,"City of St. Clair Shores, Precinct 9","St. Clair Shores, Pct 9",1431,1643,31,32,8,3145,3074,45.501,52.242,-212,-6.897,BOUCHARD,6.897
+WP-099-70760-00010,099,Macomb,"City of St. Clair Shores, Precinct 10","St. Clair Shores, Pct 10",1481,1493,26,25,6,3031,2974,48.862,49.258,-12,-0.403,BOUCHARD,0.403
+WP-099-70760-00011,099,Macomb,"City of St. Clair Shores, Precinct 11","St. Clair Shores, Pct 11",1378,1549,38,27,7,2999,2927,45.949,51.651,-171,-5.842,BOUCHARD,5.842
+WP-099-70760-00012,099,Macomb,"City of St. Clair Shores, Precinct 12","St. Clair Shores, Pct 12",1086,1179,28,21,11,2325,2265,46.71,50.71,-93,-4.106,BOUCHARD,4.106
+WP-099-72820-00001,099,Macomb,"Shelby Charter Township, Precinct 1","Shelby Twp, Pct 1",763,795,18,7,5,1588,1558,48.048,50.063,-32,-2.054,BOUCHARD,2.054
+WP-099-72820-00002,099,Macomb,"Shelby Charter Township, Precinct 2","Shelby Twp, Pct 2",951,1489,11,12,1,2464,2440,38.596,60.43,-538,-22.049,BOUCHARD,22.049
+WP-099-72820-00003,099,Macomb,"Shelby Charter Township, Precinct 3","Shelby Twp, Pct 3",976,1429,21,15,6,2447,2405,39.886,58.398,-453,-18.836,BOUCHARD,18.836
+WP-099-72820-00004,099,Macomb,"Shelby Charter Township, Precinct 4","Shelby Twp, Pct 4",814,1323,16,27,3,2183,2137,37.288,60.605,-509,-23.818,BOUCHARD,23.818
+WP-099-72820-00005,099,Macomb,"Shelby Charter Township, Precinct 5","Shelby Twp, Pct 5",866,1350,18,29,4,2267,2216,38.2,59.55,-484,-21.841,BOUCHARD,21.841
+WP-099-72820-00006,099,Macomb,"Shelby Charter Township, Precinct 6","Shelby Twp, Pct 6",1042,664,19,18,8,1751,1706,59.509,37.921,378,22.157,HINES,22.157
+WP-099-72820-00007,099,Macomb,"Shelby Charter Township, Precinct 7","Shelby Twp, Pct 7",483,502,10,16,2,1013,985,47.68,49.556,-19,-1.929,BOUCHARD,1.929
+WP-099-72820-00008,099,Macomb,"Shelby Charter Township, Precinct 8","Shelby Twp, Pct 8",639,789,17,19,5,1469,1428,43.499,53.71,-150,-10.504,BOUCHARD,10.504
+WP-099-72820-00009,099,Macomb,"Shelby Charter Township, Precinct 9","Shelby Twp, Pct 9",907,1287,19,16,3,2232,2194,40.636,57.661,-380,-17.32,BOUCHARD,17.32
+WP-099-72820-00010,099,Macomb,"Shelby Charter Township, Precinct 10","Shelby Twp, Pct 10",978,1402,23,19,10,2432,2380,40.214,57.648,-424,-17.815,BOUCHARD,17.815
+WP-099-72820-00011,099,Macomb,"Shelby Charter Township, Precinct 11","Shelby Twp, Pct 11",360,674,6,4,1,1045,1034,34.45,64.498,-314,-30.368,BOUCHARD,30.368
+WP-099-72820-00012,099,Macomb,"Shelby Charter Township, Precinct 12","Shelby Twp, Pct 12",1129,1750,16,36,3,2934,2879,38.48,59.646,-621,-21.57,BOUCHARD,21.57
+WP-099-72820-00013,099,Macomb,"Shelby Charter Township, Precinct 13","Shelby Twp, Pct 13",951,1600,22,25,9,2607,2551,36.479,61.373,-649,-25.441,BOUCHARD,25.441
+WP-099-72820-00014,099,Macomb,"Shelby Charter Township, Precinct 14","Shelby Twp, Pct 14",996,1585,14,23,7,2625,2581,37.943,60.381,-589,-22.821,BOUCHARD,22.821
+WP-099-72820-00015,099,Macomb,"Shelby Charter Township, Precinct 15","Shelby Twp, Pct 15",720,1303,8,15,3,2049,2023,35.139,63.592,-583,-28.819,BOUCHARD,28.819
+WP-099-72820-00016,099,Macomb,"Shelby Charter Township, Precinct 16","Shelby Twp, Pct 16",597,819,7,22,7,1452,1416,41.116,56.405,-222,-15.678,BOUCHARD,15.678
+WP-099-72820-00017,099,Macomb,"Shelby Charter Township, Precinct 17","Shelby Twp, Pct 17",726,1152,12,23,6,1919,1878,37.832,60.031,-426,-22.684,BOUCHARD,22.684
+WP-099-72820-00018,099,Macomb,"Shelby Charter Township, Precinct 18","Shelby Twp, Pct 18",613,1086,15,17,1,1732,1699,35.393,62.702,-473,-27.84,BOUCHARD,27.84
+WP-099-72820-00019,099,Macomb,"Shelby Charter Township, Precinct 19","Shelby Twp, Pct 19",608,1180,16,23,1,1828,1788,33.26,64.551,-572,-31.991,BOUCHARD,31.991
+WP-099-72820-00020,099,Macomb,"Shelby Charter Township, Precinct 20","Shelby Twp, Pct 20",707,1462,4,15,2,2190,2169,32.283,66.758,-755,-34.809,BOUCHARD,34.809
+WP-099-76460-00001,099,Macomb,"City of Sterling Heights, Precinct 1","Sterling Heights, Pct 1",551,539,18,7,7,1122,1090,49.109,48.039,12,1.101,HINES,1.101
+WP-099-76460-00002,099,Macomb,"City of Sterling Heights, Precinct 2","Sterling Heights, Pct 2",995,686,19,13,3,1716,1681,57.984,39.977,309,18.382,HINES,18.382
+WP-099-76460-00003,099,Macomb,"City of Sterling Heights, Precinct 3","Sterling Heights, Pct 3",729,651,16,11,5,1412,1380,51.629,46.105,78,5.652,HINES,5.652
+WP-099-76460-00004,099,Macomb,"City of Sterling Heights, Precinct 4","Sterling Heights, Pct 4",938,760,16,11,7,1732,1698,54.157,43.88,178,10.483,HINES,10.483
+WP-099-76460-00005,099,Macomb,"City of Sterling Heights, Precinct 5","Sterling Heights, Pct 5",695,845,17,9,2,1568,1540,44.324,53.89,-150,-9.74,BOUCHARD,9.74
+WP-099-76460-00006,099,Macomb,"City of Sterling Heights, Precinct 6","Sterling Heights, Pct 6",723,599,14,10,4,1350,1322,53.556,44.37,124,9.38,HINES,9.38
+WP-099-76460-00007,099,Macomb,"City of Sterling Heights, Precinct 7","Sterling Heights, Pct 7",615,858,10,13,4,1500,1473,41.0,57.2,-243,-16.497,BOUCHARD,16.497
+WP-099-76460-00008,099,Macomb,"City of Sterling Heights, Precinct 8","Sterling Heights, Pct 8",628,864,10,8,4,1514,1492,41.48,57.067,-236,-15.818,BOUCHARD,15.818
+WP-099-76460-00009,099,Macomb,"City of Sterling Heights, Precinct 9","Sterling Heights, Pct 9",681,1054,9,15,5,1764,1735,38.605,59.751,-373,-21.499,BOUCHARD,21.499
+WP-099-76460-00010,099,Macomb,"City of Sterling Heights, Precinct 10","Sterling Heights, Pct 10",689,982,11,11,6,1699,1671,40.553,57.799,-293,-17.534,BOUCHARD,17.534
+WP-099-76460-00011,099,Macomb,"City of Sterling Heights, Precinct 11","Sterling Heights, Pct 11",730,1167,13,8,1,1919,1897,38.041,60.813,-437,-23.036,BOUCHARD,23.036
+WP-099-76460-00012,099,Macomb,"City of Sterling Heights, Precinct 12","Sterling Heights, Pct 12",640,642,17,12,8,1319,1282,48.522,48.673,-2,-0.156,BOUCHARD,0.156
+WP-099-76460-00013,099,Macomb,"City of Sterling Heights, Precinct 13","Sterling Heights, Pct 13",648,1064,13,12,5,1742,1712,37.199,61.079,-416,-24.299,BOUCHARD,24.299
+WP-099-76460-00014,099,Macomb,"City of Sterling Heights, Precinct 14","Sterling Heights, Pct 14",1330,1416,25,16,6,2793,2746,47.619,50.698,-86,-3.132,BOUCHARD,3.132
+WP-099-76460-00015,099,Macomb,"City of Sterling Heights, Precinct 15","Sterling Heights, Pct 15",630,1032,10,14,9,1695,1662,37.168,60.885,-402,-24.188,BOUCHARD,24.188
+WP-099-76460-00017,099,Macomb,"City of Sterling Heights, Precinct 17","Sterling Heights, Pct 17",504,537,16,12,3,1072,1041,47.015,50.093,-33,-3.17,BOUCHARD,3.17
+WP-099-76460-00018,099,Macomb,"City of Sterling Heights, Precinct 18","Sterling Heights, Pct 18",429,618,10,10,2,1069,1047,40.131,57.811,-189,-18.052,BOUCHARD,18.052
+WP-099-76460-00019,099,Macomb,"City of Sterling Heights, Precinct 19","Sterling Heights, Pct 19",504,462,14,8,3,991,966,50.858,46.62,42,4.348,HINES,4.348
+WP-099-76460-00020,099,Macomb,"City of Sterling Heights, Precinct 20","Sterling Heights, Pct 20",630,598,12,14,5,1259,1228,50.04,47.498,32,2.606,HINES,2.606
+WP-099-76460-00021,099,Macomb,"City of Sterling Heights, Precinct 21","Sterling Heights, Pct 21",1278,1367,36,17,7,2705,2645,47.246,50.536,-89,-3.365,BOUCHARD,3.365
+WP-099-76460-00022,099,Macomb,"City of Sterling Heights, Precinct 22","Sterling Heights, Pct 22",599,564,18,16,7,1204,1163,49.751,46.844,35,3.009,HINES,3.009
+WP-099-76460-00023,099,Macomb,"City of Sterling Heights, Precinct 23","Sterling Heights, Pct 23",734,690,19,9,7,1459,1424,50.308,47.293,44,3.09,HINES,3.09
+WP-099-76460-00025,099,Macomb,"City of Sterling Heights, Precinct 25","Sterling Heights, Pct 25",364,383,9,9,3,768,747,47.396,49.87,-19,-2.544,BOUCHARD,2.544
+WP-099-76460-00026,099,Macomb,"City of Sterling Heights, Precinct 26","Sterling Heights, Pct 26",702,630,13,11,3,1359,1332,51.656,46.358,72,5.405,HINES,5.405
+WP-099-76460-00027,099,Macomb,"City of Sterling Heights, Precinct 27","Sterling Heights, Pct 27",510,614,8,8,0,1140,1124,44.737,53.86,-104,-9.253,BOUCHARD,9.253
+WP-099-76460-00028,099,Macomb,"City of Sterling Heights, Precinct 28","Sterling Heights, Pct 28",533,618,8,7,0,1166,1151,45.712,53.002,-85,-7.385,BOUCHARD,7.385
+WP-099-76460-00029,099,Macomb,"City of Sterling Heights, Precinct 29","Sterling Heights, Pct 29",639,696,11,12,5,1363,1335,46.882,51.064,-57,-4.27,BOUCHARD,4.27
+WP-099-76460-00030,099,Macomb,"City of Sterling Heights, Precinct 30","Sterling Heights, Pct 30",657,954,14,23,6,1654,1611,39.722,57.678,-297,-18.436,BOUCHARD,18.436
+WP-099-76460-00031,099,Macomb,"City of Sterling Heights, Precinct 31","Sterling Heights, Pct 31",733,776,17,16,8,1550,1509,47.29,50.065,-43,-2.85,BOUCHARD,2.85
+WP-099-76460-00032,099,Macomb,"City of Sterling Heights, Precinct 32","Sterling Heights, Pct 32",564,701,6,11,0,1282,1265,43.994,54.68,-137,-10.83,BOUCHARD,10.83
+WP-099-76460-00033,099,Macomb,"City of Sterling Heights, Precinct 33","Sterling Heights, Pct 33",448,435,6,1,6,896,883,50.0,48.549,13,1.472,HINES,1.472
+WP-099-76460-00034,099,Macomb,"City of Sterling Heights, Precinct 34","Sterling Heights, Pct 34",701,636,10,17,3,1367,1337,51.28,46.525,65,4.862,HINES,4.862
+WP-099-76460-00035,099,Macomb,"City of Sterling Heights, Precinct 35","Sterling Heights, Pct 35",827,796,16,15,4,1658,1623,49.879,48.01,31,1.91,HINES,1.91
+WP-099-76460-00036,099,Macomb,"City of Sterling Heights, Precinct 36","Sterling Heights, Pct 36",777,740,9,15,4,1545,1517,50.291,47.896,37,2.439,HINES,2.439
+WP-099-76460-00037,099,Macomb,"City of Sterling Heights, Precinct 37","Sterling Heights, Pct 37",499,488,15,5,2,1009,987,49.455,48.365,11,1.114,HINES,1.114
+WP-099-76460-00038,099,Macomb,"City of Sterling Heights, Precinct 38","Sterling Heights, Pct 38",768,883,9,11,4,1675,1651,45.851,52.716,-115,-6.965,BOUCHARD,6.965
+WP-099-76460-00039,099,Macomb,"City of Sterling Heights, Precinct 39","Sterling Heights, Pct 39",691,800,10,10,1,1512,1491,45.701,52.91,-109,-7.311,BOUCHARD,7.311
+WP-099-76460-00040,099,Macomb,"City of Sterling Heights, Precinct 40","Sterling Heights, Pct 40",1192,945,23,14,11,2185,2137,54.554,43.249,247,11.558,HINES,11.558
+WP-099-76460-00042,099,Macomb,"City of Sterling Heights, Precinct 42","Sterling Heights, Pct 42",1023,656,14,13,6,1712,1679,59.755,38.318,367,21.858,HINES,21.858
+WP-099-76460-00043,099,Macomb,"City of Sterling Heights, Precinct 43","Sterling Heights, Pct 43",1086,864,21,27,5,2003,1950,54.219,43.135,222,11.385,HINES,11.385
+WP-099-81540-00001,099,Macomb,"City of Utica, Precinct 1","Utica, Pct 1",1124,1090,24,24,5,2267,2214,49.581,48.081,34,1.536,HINES,1.536
+WP-099-84000-01001,099,Macomb,"City of Warren, Precinct 1","Warren, Pct 1",950,261,14,9,12,1246,1211,76.244,20.947,689,56.895,HINES,56.895
+WP-099-84000-01004,099,Macomb,"City of Warren, Precinct 4","Warren, Pct 4",790,321,19,7,5,1142,1111,69.177,28.109,469,42.214,HINES,42.214
+WP-099-84000-01005,099,Macomb,"City of Warren, Precinct 5","Warren, Pct 5",950,369,20,12,2,1353,1319,70.214,27.273,581,44.049,HINES,44.049
+WP-099-84000-01031,099,Macomb,"City of Warren, Precinct 31","Warren, Pct 31",666,266,8,10,8,958,932,69.52,27.766,400,42.918,HINES,42.918
+WP-099-84000-01034,099,Macomb,"City of Warren, Precinct 34","Warren, Pct 34",779,273,12,12,5,1081,1052,72.063,25.254,506,48.099,HINES,48.099
+WP-099-84000-01035,099,Macomb,"City of Warren, Precinct 35","Warren, Pct 35",529,283,12,9,5,838,812,63.126,33.771,246,30.296,HINES,30.296
+WP-099-84000-01041,099,Macomb,"City of Warren, Precinct 41","Warren, Pct 41",783,306,9,9,14,1121,1089,69.848,27.297,477,43.802,HINES,43.802
+WP-099-84000-01042,099,Macomb,"City of Warren, Precinct 42","Warren, Pct 42",1060,634,15,22,8,1739,1694,60.955,36.458,426,25.148,HINES,25.148
+WP-099-84000-01051,099,Macomb,"City of Warren, Precinct 51","Warren, Pct 51",361,336,10,10,1,718,697,50.279,46.797,25,3.587,HINES,3.587
+WP-099-84000-01052,099,Macomb,"City of Warren, Precinct 52","Warren, Pct 52",669,534,18,14,8,1243,1203,53.821,42.961,135,11.222,HINES,11.222
+WP-099-84000-02002,099,Macomb,"City of Warren, Precinct 2","Warren, Pct 2",904,270,31,10,10,1225,1174,73.796,22.041,634,54.003,HINES,54.003
+WP-099-84000-02003,099,Macomb,"City of Warren, Precinct 3","Warren, Pct 3",779,350,14,13,3,1159,1129,67.213,30.198,429,37.998,HINES,37.998
+WP-099-84000-02018,099,Macomb,"City of Warren, Precinct 18","Warren, Pct 18",800,354,12,6,6,1178,1154,67.912,30.051,446,38.648,HINES,38.648
+WP-099-84000-02019,099,Macomb,"City of Warren, Precinct 19","Warren, Pct 19",1042,503,27,18,4,1594,1545,65.37,31.556,539,34.887,HINES,34.887
+WP-099-84000-02032,099,Macomb,"City of Warren, Precinct 32","Warren, Pct 32",991,494,19,6,7,1517,1485,65.326,32.564,497,33.468,HINES,33.468
+WP-099-84000-02033,099,Macomb,"City of Warren, Precinct 33","Warren, Pct 33",447,292,11,6,4,760,739,58.816,38.421,155,20.974,HINES,20.974
+WP-099-84000-02036,099,Macomb,"City of Warren, Precinct 36","Warren, Pct 36",788,496,11,16,3,1314,1284,59.97,37.747,292,22.741,HINES,22.741
+WP-099-84000-02040,099,Macomb,"City of Warren, Precinct 40","Warren, Pct 40",832,412,12,13,10,1279,1244,65.051,32.213,420,33.762,HINES,33.762
+WP-099-84000-02043,099,Macomb,"City of Warren, Precinct 43","Warren, Pct 43",647,275,9,6,7,944,922,68.538,29.131,372,40.347,HINES,40.347
+WP-099-84000-02050,099,Macomb,"City of Warren, Precinct 50","Warren, Pct 50",705,606,18,14,3,1346,1311,52.377,45.022,99,7.551,HINES,7.551
+WP-099-84000-03009,099,Macomb,"City of Warren, Precinct 9","Warren, Pct 9",573,167,23,4,4,771,740,74.319,21.66,406,54.865,HINES,54.865
+WP-099-84000-03010,099,Macomb,"City of Warren, Precinct 10","Warren, Pct 10",11,7,0,0,0,18,18,61.111,38.889,4,22.222,HINES,22.222
+WP-099-84000-03013,099,Macomb,"City of Warren, Precinct 13","Warren, Pct 13",929,421,37,9,3,1399,1350,66.405,30.093,508,37.63,HINES,37.63
+WP-099-84000-03022,099,Macomb,"City of Warren, Precinct 22","Warren, Pct 22",361,188,5,9,6,569,549,63.445,33.04,173,31.512,HINES,31.512
+WP-099-84000-03026,099,Macomb,"City of Warren, Precinct 26","Warren, Pct 26",626,379,20,5,0,1030,1005,60.777,36.796,247,24.577,HINES,24.577
+WP-099-84000-03027,099,Macomb,"City of Warren, Precinct 27","Warren, Pct 27",1076,540,19,21,8,1664,1616,64.663,32.452,536,33.168,HINES,33.168
+WP-099-84000-03029,099,Macomb,"City of Warren, Precinct 29","Warren, Pct 29",780,594,18,9,5,1406,1374,55.477,42.248,186,13.537,HINES,13.537
+WP-099-84000-03044,099,Macomb,"City of Warren, Precinct 44","Warren, Pct 44",921,688,13,12,7,1641,1609,56.124,41.926,233,14.481,HINES,14.481
+WP-099-84000-03046,099,Macomb,"City of Warren, Precinct 46","Warren, Pct 46",817,699,11,10,2,1539,1516,53.086,45.419,118,7.784,HINES,7.784
+WP-099-84000-03048,099,Macomb,"City of Warren, Precinct 48","Warren, Pct 48",549,393,12,9,3,966,942,56.832,40.683,156,16.561,HINES,16.561
+WP-099-84000-03049,099,Macomb,"City of Warren, Precinct 49","Warren, Pct 49",682,505,13,8,8,1216,1187,56.086,41.53,177,14.912,HINES,14.912
+WP-099-84000-04014,099,Macomb,"City of Warren, Precinct 14","Warren, Pct 14",625,233,29,4,4,895,858,69.832,26.034,392,45.688,HINES,45.688
+WP-099-84000-04015,099,Macomb,"City of Warren, Precinct 15","Warren, Pct 15",582,265,31,11,9,898,847,64.811,29.51,317,37.426,HINES,37.426
+WP-099-84000-04016,099,Macomb,"City of Warren, Precinct 16","Warren, Pct 16",471,246,11,5,7,740,717,63.649,33.243,225,31.381,HINES,31.381
+WP-099-84000-04023,099,Macomb,"City of Warren, Precinct 23","Warren, Pct 23",519,326,9,6,5,865,845,60.0,37.688,193,22.84,HINES,22.84
+WP-099-84000-04024,099,Macomb,"City of Warren, Precinct 24","Warren, Pct 24",409,152,12,9,6,588,561,69.558,25.85,257,45.811,HINES,45.811
+WP-099-84000-04025,099,Macomb,"City of Warren, Precinct 25","Warren, Pct 25",644,471,12,8,3,1138,1115,56.591,41.388,173,15.516,HINES,15.516
+WP-099-84000-04028,099,Macomb,"City of Warren, Precinct 28","Warren, Pct 28",947,526,23,11,12,1519,1473,62.344,34.628,421,28.581,HINES,28.581
+WP-099-84000-04030,099,Macomb,"City of Warren, Precinct 30","Warren, Pct 30",789,617,23,12,1,1442,1406,54.716,42.788,172,12.233,HINES,12.233
+WP-099-84000-04045,099,Macomb,"City of Warren, Precinct 45","Warren, Pct 45",774,524,12,8,0,1318,1298,58.725,39.757,250,19.26,HINES,19.26
+WP-099-84000-04047,099,Macomb,"City of Warren, Precinct 47","Warren, Pct 47",446,444,15,8,0,913,890,48.85,48.631,2,0.225,HINES,0.225
+WP-099-84000-04053,099,Macomb,"City of Warren, Precinct 53","Warren, Pct 53",803,806,16,13,5,1643,1609,48.874,49.057,-3,-0.186,BOUCHARD,0.186
+WP-099-84000-05006,099,Macomb,"City of Warren, Precinct 6","Warren, Pct 6",544,155,19,10,7,735,699,74.014,21.088,389,55.651,HINES,55.651
+WP-099-84000-05007,099,Macomb,"City of Warren, Precinct 7","Warren, Pct 7",596,189,25,4,11,825,785,72.242,22.909,407,51.847,HINES,51.847
+WP-099-84000-05008,099,Macomb,"City of Warren, Precinct 8","Warren, Pct 8",655,243,25,8,3,934,898,70.128,26.017,412,45.88,HINES,45.88
+WP-099-84000-05011,099,Macomb,"City of Warren, Precinct 11","Warren, Pct 11",424,145,12,7,4,592,569,71.622,24.493,279,49.033,HINES,49.033
+WP-099-84000-05012,099,Macomb,"City of Warren, Precinct 12","Warren, Pct 12",174,141,3,1,3,322,315,54.037,43.789,33,10.476,HINES,10.476
+WP-099-84000-05017,099,Macomb,"City of Warren, Precinct 17","Warren, Pct 17",209,79,10,2,5,305,288,68.525,25.902,130,45.139,HINES,45.139
+WP-099-84000-05020,099,Macomb,"City of Warren, Precinct 20","Warren, Pct 20",800,484,31,18,8,1341,1284,59.657,36.092,316,24.611,HINES,24.611
+WP-099-84000-05021,099,Macomb,"City of Warren, Precinct 21","Warren, Pct 21",744,396,25,15,7,1187,1140,62.679,33.361,348,30.526,HINES,30.526
+WP-099-84000-05037,099,Macomb,"City of Warren, Precinct 37","Warren, Pct 37",1127,575,25,12,8,1747,1702,64.511,32.914,552,32.432,HINES,32.432
+WP-099-84000-05038,099,Macomb,"City of Warren, Precinct 38","Warren, Pct 38",745,430,17,16,5,1213,1175,61.418,35.449,315,26.809,HINES,26.809
+WP-099-84000-05039,099,Macomb,"City of Warren, Precinct 39","Warren, Pct 39",726,300,21,12,6,1065,1026,68.169,28.169,426,41.52,HINES,41.52
+WP-125-69020-00001,125,Oakland,"City of Rochester, Precinct 1","Rochester, Precinct 1",1299,982,16,23,8,2328,2281,55.799,42.182,317,13.897,HINES,13.897
+WP-125-69020-00002,125,Oakland,"City of Rochester, Precinct 2","Rochester, Precinct 2",1357,1252,14,14,2,2639,2609,51.421,47.442,105,4.025,HINES,4.025
+WP-125-69020-00003,125,Oakland,"City of Rochester, Precinct 3","Rochester, Precinct 3",1008,1246,7,10,5,2276,2254,44.288,54.745,-238,-10.559,BOUCHARD,10.559
+WP-125-69035-01001,125,Oakland,"City of Rochester Hills, District 1, Precinct 1","Rochester Hills, Precinct 1",916,872,3,4,1,1796,1788,51.002,48.552,44,2.461,HINES,2.461
+WP-125-69035-01002,125,Oakland,"City of Rochester Hills, District 1, Precinct 2","Rochester Hills, Precinct 2",868,745,14,18,5,1650,1613,52.606,45.152,123,7.626,HINES,7.626
+WP-125-69035-01003,125,Oakland,"City of Rochester Hills, District 1, Precinct 3","Rochester Hills, Precinct 3",920,752,6,11,6,1695,1672,54.277,44.366,168,10.048,HINES,10.048
+WP-125-69035-01004,125,Oakland,"City of Rochester Hills, District 1, Precinct 4","Rochester Hills, Precinct 4",1015,814,7,17,7,1860,1829,54.57,43.763,201,10.99,HINES,10.99
+WP-125-69035-01005,125,Oakland,"City of Rochester Hills, District 1, Precinct 5","Rochester Hills, Precinct 5",912,777,12,12,4,1717,1689,53.116,45.253,135,7.993,HINES,7.993
+WP-125-69035-01006,125,Oakland,"City of Rochester Hills, District 1, Precinct 6","Rochester Hills, Precinct 6",1093,1009,8,16,8,2134,2102,51.218,47.282,84,3.996,HINES,3.996
+WP-125-69035-02007,125,Oakland,"City of Rochester Hills, District 2, Precinct 7","Rochester Hills, Precinct 7",1507,1364,8,11,6,2896,2871,52.037,47.099,143,4.981,HINES,4.981
+WP-125-69035-02008,125,Oakland,"City of Rochester Hills, District 2, Precinct 8","Rochester Hills, Precinct 8",1384,1240,6,20,1,2651,2624,52.207,46.775,144,5.488,HINES,5.488
+WP-125-69035-02009,125,Oakland,"City of Rochester Hills, District 2, Precinct 9","Rochester Hills, Precinct 9",1233,1446,6,23,9,2717,2679,45.381,53.22,-213,-7.951,BOUCHARD,7.951
+WP-125-69035-02010,125,Oakland,"City of Rochester Hills, District 2, Precinct 10","Rochester Hills, Precinct 10",463,413,4,9,2,891,876,51.964,46.352,50,5.708,HINES,5.708
+WP-125-69035-02011,125,Oakland,"City of Rochester Hills, District 2, Precinct 11","Rochester Hills, Precinct 11",763,486,14,7,5,1275,1249,59.843,38.118,277,22.178,HINES,22.178
+WP-125-69035-03012,125,Oakland,"City of Rochester Hills, District 3, Precinct 12","Rochester Hills, Precinct 12",1440,1457,18,25,11,2951,2897,48.797,49.373,-17,-0.587,BOUCHARD,0.587
+WP-125-69035-03013,125,Oakland,"City of Rochester Hills, District 3, Precinct 13","Rochester Hills, Precinct 13",983,954,17,12,2,1968,1937,49.949,48.476,29,1.497,HINES,1.497
+WP-125-69035-03014,125,Oakland,"City of Rochester Hills, District 3, Precinct 14","Rochester Hills, Precinct 14",1017,1076,10,15,3,2121,2093,47.949,50.731,-59,-2.819,BOUCHARD,2.819
+WP-125-69035-03015,125,Oakland,"City of Rochester Hills, District 3, Precinct 15","Rochester Hills, Precinct 15",1172,989,18,25,10,2214,2161,52.936,44.67,183,8.468,HINES,8.468
+WP-125-69035-03016,125,Oakland,"City of Rochester Hills, District 3, Precinct 16","Rochester Hills, Precinct 16",642,539,3,2,1,1187,1181,54.086,45.409,103,8.721,HINES,8.721
+WP-125-69035-04017,125,Oakland,"City of Rochester Hills, District 4, Precinct 17","Rochester Hills, Precinct 17",1212,1055,16,12,6,2301,2267,52.673,45.85,157,6.925,HINES,6.925
+WP-125-69035-04018,125,Oakland,"City of Rochester Hills, District 4, Precinct 18","Rochester Hills, Precinct 18",641,542,17,13,2,1215,1183,52.757,44.609,99,8.369,HINES,8.369
+WP-125-69035-04019,125,Oakland,"City of Rochester Hills, District 4, Precinct 19","Rochester Hills, Precinct 19",632,727,10,15,9,1393,1359,45.37,52.19,-95,-6.99,BOUCHARD,6.99
+WP-125-69035-04020,125,Oakland,"City of Rochester Hills, District 4, Precinct 20","Rochester Hills, Precinct 20",1249,715,21,19,4,2008,1964,62.201,35.608,534,27.189,HINES,27.189
+WP-125-69035-04021,125,Oakland,"City of Rochester Hills, District 4, Precinct 21","Rochester Hills, Precinct 21",559,445,7,15,7,1033,1004,54.114,43.078,114,11.355,HINES,11.355
