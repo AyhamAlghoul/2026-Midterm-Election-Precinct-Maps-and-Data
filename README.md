@@ -5,3 +5,7 @@ This is a repository that will include precinct-level maps for elections in 2026
 To view maps, you can either click on the maps in their file, or you can navigate by the state tabs at the top of the document. 
 
 The CSVs will be in their own file as well, available for download.
+
+Current Maps Available:
+
+2026 Harris County Judge Election (Texas)
