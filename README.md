@@ -1,4 +1,4 @@
-[Home](README.md) | [Texas Maps](TexasMaps.md)
+[Home](README.md) | [Texas Maps](Texas_Maps.md) | [Michigan Maps](Michigan_Maps.md)
 # 2026-Midterm-Election-Precinct-Maps-and-Data
 This is a repository that will include precinct-level maps for elections in 2026. It will also include cleaned CSVs with precinct data. It will be updated as I complete maps.
 
