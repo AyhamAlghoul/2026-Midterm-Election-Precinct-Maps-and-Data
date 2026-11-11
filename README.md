@@ -8,6 +8,9 @@ The CSVs will be in their own file as well, available for download.
 
 ## Current Maps Available:
 
-2026 Harris County Judge Election (Texas)
+#### Texas
+2026 Harris County Judge Election 
 
+2026 Bexar County Judge Election
+#### Michigan
 2026 Congressional Election in Michigan's 10th District
