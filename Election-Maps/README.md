@@ -20,6 +20,20 @@ Software: ArcGIS Pro
 
 Visualization: Winning candidate's two-party vote share by precinct
 
+### 2026 Bexar County Judge Election
+
+Precinct-level visualization of the 2026 Bexar County Judge election between Ron Nirenberg (D) and Patrick Von Dohlen (R).
+
+Geographic coverage: Bexar County, Texas
+
+Election data: Bexar County Elections Department (2026)
+
+Precinct boundaries: Bexar County GIS, Voting Precincts (2026)
+
+Software: ArcGIS Pro
+
+Visualization: Winning candidate's two-party vote share by precinct
+
 ### 2026 Michigan's 10th Congressional District Election
 
 Precinct-level visualization of the 2026 U.S. House election in Michigan's 10th Congressional District between Christina Hines (D) and Michael Bouchard (R).
