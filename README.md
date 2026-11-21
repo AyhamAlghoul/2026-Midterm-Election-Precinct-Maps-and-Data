@@ -9,8 +9,10 @@ The CSVs will be in their own file as well, available for download.
 ## Current Maps Available:
 
 #### Texas
-2026 Harris County Judge Election 
+Harris County Judge Election 
 
-2026 Bexar County Judge Election
+Bexar County Judge Election
 #### Michigan
-2026 Congressional Election in Michigan's 10th District
+Congressional Election in Michigan's 10th District
+#### Florida
+St. Petersburg Mayoral Election 
