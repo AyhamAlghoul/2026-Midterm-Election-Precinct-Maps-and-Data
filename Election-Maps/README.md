@@ -47,3 +47,17 @@ Precinct boundaries: Michigan Department of State, 2026 Voting Precincts
 Software: ArcGIS Pro
 
 Visualization: Winning candidate's share of total votes cast by precinct
+
+### 2026 St. Petersburg Mayor Election
+
+Precinct-level visualization of the 2026 St. Petersburg mayoral election between Charlie Crist and Kenneth T. Welch.
+
+Geographic coverage: St. Petersburg, Pinellas County, Florida
+
+Election data: Pinellas County Supervisor of Elections
+
+Precinct boundaries: Pinellas County GIS
+
+Software: ArcGIS Pro
+
+Visualization: Winning candidate's two-party vote share by precinct
